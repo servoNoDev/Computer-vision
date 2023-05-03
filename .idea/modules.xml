@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Computer-vision.iml" filepath="$PROJECT_DIR$/.idea/Computer-vision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../APVV/cvat-usg-lung-processing/.idea/cvat-usg-lung-processing.iml" filepath="$PROJECT_DIR$/../APVV/cvat-usg-lung-processing/.idea/cvat-usg-lung-processing.iml" />
     </modules>
   </component>
 </project>
