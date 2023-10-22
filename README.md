@@ -21,10 +21,30 @@ The guarantor of teaching the subject is doc. Ing. Marek Bundzel, PhD. Laborator
 - Image common transformations
 
 ### Week 2
+- Image histogram
+- Histogram adjustment
+- Custom histogram adjustment
+
 ### Week 3
+- Image segmentation
+- Image segmentation by intensity
+- Image color segmentation 
+- Image & mask multiplication for visualisation
+
 ### Week 4
+- Image texture processing
+- Calculation of image entropy, contrast, correlation, energy, homogeneity
+- Image texture segmentation
+
 ### Week 5
+- Image convolution
+- Filtering image
+- Implementation of varius types of kernels
+
 ### Week 6
+- Fourier transformation
+- [Presentation of filter examples](https://faculty.cc.gatech.edu/~afb/classes/CS4495-Fall2014/slides/CS4495-Frequency.pdf)
+
 ### Week 7
 ### Week 8
 ### Week 9
